@@ -82,7 +82,8 @@ div.description > h1 {
 }
 
 div.description {
-    padding-left: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
     padding-top: 50px;
 }
 
@@ -94,7 +95,7 @@ main > section {
     display: flex;
     flex-flow: row wrap;
     gap: 80px;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding: 20px;
 }
 
